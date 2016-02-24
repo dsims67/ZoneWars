@@ -1,0 +1,22 @@
+#Default ZoneWars config.yml
+Headquarters:
+  Zombie:
+    X: 0
+    Y: 60
+    Z: 0
+    Pitch: 0
+    Yaw: 0
+  Witch:
+    X: 0
+    Y: 60
+    Z: 0
+    Pitch: 0
+    Yaw: 0
+  Villager:
+    X: 0
+    Y: 60
+    Z: 0
+    Pitch: 0
+    Yaw: 0
+CapturePoints: {}
+  

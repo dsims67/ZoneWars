@@ -1,0 +1,19 @@
+name: ZoneWars
+main: com.savior67.zonewars.ZoneWars
+version: 0.1
+commands:
+   ac:
+      description: All Chat
+      usage: /ac
+   tc:
+      description: Team Chat
+      usage: /tc
+   sc:
+      description: Squad Chat
+      usage: /sc
+   createpoint:
+      description: Creates a Capture Point at Player's Location
+      usage: /createpoint
+   listpoints:
+      description: Lists all existing Capture Points and their statuses
+      usage: /listpoints
